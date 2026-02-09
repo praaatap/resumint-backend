@@ -105,6 +105,8 @@ A powerful AI backend for the Resumint resume builder application using FastAPI,
 
 ---
 
+
+
 ## 🔧 Design Patterns Used
 
 | Pattern | Usage |
